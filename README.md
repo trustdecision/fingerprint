@@ -14,7 +14,7 @@
 ## Our sdk is as follows:
 - Android
   https://github.com/trustdecision/trustdevice-android
-- IOS
+- iOS
    https://github.com/trustdecision/trustdevice-ios
-- JS
+- js
    https://github.com/trustdecision/trustdevice-js
